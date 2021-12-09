@@ -1,5 +1,5 @@
 import axios from "axios";
-const url = "https://sleepy-chamber-38742.herokuapp.com/api/topic";
+const url = "https://kiwibyte.herokuapp.com/api/topic/";
 
 export default class API{
     //get all topics from server
